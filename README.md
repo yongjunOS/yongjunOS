@@ -25,24 +25,11 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[GitHub 사용자명]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHub 사용자명]&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 ## 📫 연락하기
 
 <p align="center">
-    <a href="mailto:[이메일 주소]">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="[블로그 URL]">
+    <a href="[https://yongjunos.tistory.com/]">
         <img src="https://img.shields.io/badge/Tech_Blog-000000?style=for-the-badge&logo=blogger&logoColor=white"/>
     </a>
 </p>
